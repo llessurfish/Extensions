@@ -1,10 +1,10 @@
 {
   "addons": {
-    "{}": {
+    "{d7512602-6b67-48fd-9bb8-e754f02e25e3}": {
       "updates": [
         {
           "version": "0.8.3",
-          "update_link": ""
+          "update_link": "https://github.com/llessurfish/Extensions/raw/main/Edgenuity_Helper/Edgenuity-0.8.3.xpi"
         }
       ]
     }
