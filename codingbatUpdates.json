@@ -4,11 +4,11 @@
       "updates": [
         {
           "version": "1.0",
-          "update_link": "https://github.com/llessurfish/Extensions/blob/main/codingbat/CodingBat-v1.0.xpi"
+          "update_link": "https://github.com/llessurfish/Extensions/raw/main/codingbat/CodingBat-v1.0.xpi"
         },
         {
           "version": "1.1",
-          "update_link": "https://github.com/llessurfish/Extensions/blob/main/codingbat/CodingBat-v1.1.xpi"
+          "update_link": "https://github.com/llessurfish/Extensions/raw/main/codingbat/CodingBat-v1.1.xpi"
         }
       ]
     }
